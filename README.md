@@ -4,4 +4,4 @@ This repository contains code for a drowsiness detection system. The system uses
 
 Here is a demo:
 
-Uploading Drowsiness Detection _ 졸음감지.mp4…
+https://github.com/RustX2802/Drowsiness-Detection/assets/72299347/9a2365d8-8a38-4832-a20e-be5d803ef73c
