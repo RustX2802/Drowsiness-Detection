@@ -2,5 +2,4 @@
 
 This repository contains code for a drowsiness detection system. The system uses computer vision techniques to detect drowsiness based on eye aspect ratio (EAR) and plays an alarm to wake the person up if necessary.
 
-Here is a demo: 
-[Drowsiness Detection.mp4](app_image/Drowsiness Detection _ 졸음감지.mp4)
+Here is a demo:
