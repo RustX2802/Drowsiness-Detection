@@ -4,4 +4,4 @@ This repository contains code for a drowsiness detection system. The system uses
 
 Here is a demo:
 
-https://github.com/RustX2802/Drowsiness-Detection/assets/72299347/198adee2-4318-499f-b019-0d7e869b151f
+https://github.com/RustX2802/Drowsiness-Detection/assets/72299347/bec82436-b4cf-4ffa-b320-55b83fc0079a
